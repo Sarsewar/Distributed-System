@@ -3,5 +3,6 @@
 Algorithms:<br>
 <ul> Lamport Clock Algorithm</ul>
 <ul>Vector Clock Algorithm</ul>
+  <ul>RMI (Remote Method Invocation)</ul>
 </body>
 </html>
